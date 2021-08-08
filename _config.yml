@@ -22,7 +22,7 @@ title:            'ISCC Oral History'
 description:      'A digital archive of photos and an oral history of the Islamic Society of Chester County'
 url:              'https://maxjdugan.github.io'
 baseurl:          '/iscc'
-copyright:        <a href='mailto:max.j.dugan@gmail.com'>Max Johnson Dugan</a>, 2021
+copyright:        '2021 <a href='mailto:max.j.dugan@gmail.com>Max Johnson Dugan</a>'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
