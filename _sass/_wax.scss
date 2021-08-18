@@ -87,6 +87,7 @@ header & nav bar
       background-color: $bg-color;
     }
     .dropdown-menu {
+      font-weight: 500; 
       background-color: $neutral;
       border-color: $accent-light;
       .dropdown-item:focus {
