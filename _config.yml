@@ -18,7 +18,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'The Provenance of NEP-80'
+title:            'ISCC Oral History'
 description:      'A digital archive of photos and an oral history of the Islamic Society of Chester County'
 url:              'https://maxjdugan.github.io'
 baseurl:          '/iscc'
