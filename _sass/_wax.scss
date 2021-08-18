@@ -56,9 +56,9 @@ header & nav bar
   letter-spacing: 0.075rem;
 
   .navbar-brand {
-    font-weight: 1100;
+    font-weight: 1000;
     color: $accent-light;
-    font-size: 2.0rem;
+    font-size: 1.25rem;
     white-space: normal;
   }
 
@@ -78,7 +78,7 @@ header & nav bar
     .nav-link {
     font-weight: 700;
     color: $accent-light;
-    font-size: 1.25rem;
+    font-size: 1.0rem;
     }
     .nav-link:hover {
       color: $accent-dark;
