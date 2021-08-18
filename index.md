@@ -4,7 +4,7 @@ show_title: false
 banner:
   collection: iscc
   pid: img10
-  y: 90&
+  y: 90%
   height: '350px'
 ---
 
