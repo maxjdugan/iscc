@@ -1,22 +1,16 @@
 ---
 layout: page
-title: ISCC
+title: The ISCC
 permalink: '/the_iscc/'
 ---
+<p>Here are some links to additional sources for those interested in learning more about the good work and vibrancy of the ISCC:</p>
+<ul>
+  <li><a href="https://isccpa.org/">The ISCC's official website</a>.</li>
+  <li><a href="http://www.tgoldmanphotography.com/muslims-a-well-kept-secret.html">A detailed photoessay by Ted Goldman about the ISCC</a>.</li>
+  <li><a href="https://www.facebook.com/IslamicSocietyChesterCounty/">The ISCC's Facebook page</a>.</li>
+  <li><a href="https://twitter.com/isccpa?lang=en">The ISCC's Twitter profile</a>.</li>
+</ul>
 
-This is where links for the ISCC will go
+<p>Additionally, a chapter in an edited volume written by Professor Megan Robb and Max Johnson Dugan is forthcoming, and will be added to this page when it has been published.</p>
 
-https://isccpa.org/
-
-http://www.tgoldmanphotography.com/muslims-a-well-kept-secret.html
-
-https://www.facebook.com/IslamicSocietyChesterCounty/
-
-https://twitter.com/isccpa?lang=en
-
-
-Wax is a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp at New York University and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
-
-We welcome and encourage contributors and maintainers. Please get in touch, or [fork the project on GitHub](https://github.com/minicomp/wax). If you encounter any issue with the software, please [create an issue](https://github.com/minicomp/wax/issues) on our repository or post a comment on [Gitter](https://gitter.im/minicomp/wax/).
-
-For more on working with Wax, visit our [documentation wiki](https://minicomp.github.io/wiki/wax/).
+<p>If you know of any additional sources that should be added to this list, please shoot Max Johnson Dugan an email at <a href="mailto:max.j.dugan@gmail.com">max.j.dugan@gmail.com</a>.</p>
