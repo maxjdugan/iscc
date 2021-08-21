@@ -56,7 +56,7 @@ header & nav bar
   letter-spacing: 0.075rem;
 
   .navbar-brand {
-    font-weight: 1800;
+    font-weight: 2200;
     color: $accent-light;
     font-size: 1.6rem;
     white-space: normal;
@@ -76,7 +76,7 @@ header & nav bar
       background-color: $neutral;
     }
     .nav-link {
-    font-weight: 1400;
+    font-weight: 1600;
     color: $accent-light;
     font-size: 1.25rem;
     }
@@ -87,7 +87,7 @@ header & nav bar
       background-color: $bg-color;
     }
     .dropdown-menu {
-      font-weight: 500;
+      font-weight: 1000;
       background-color: $neutral;
       border-color: $accent-light;
       .dropdown-item:focus {
@@ -305,6 +305,16 @@ content section
     background-attachment: fixed;
     background-size: cover;
   }
+  .parallax-caption {
+    margin: 0 auto;
+    width: 100vw;
+    background-color: $neutral;
+    padding: $less-margin 0;
+    a {
+      color: $accent-light;
+      font-weight: 700;
+      text-decoration: none;
+    }
 
     a:hover {
       text-decoration: underline;
