@@ -4,11 +4,6 @@ title: 'Oral History'
 author: Megan Eaton Robb & Max Johnson Dugan
 publish_date: 2021-05-19
 permalink: /exhibits/a/
-banner:
-  collection: iscc
-  pid: img10
-  y: 90%
-  height: '350px'
 ---
 
 <p>The <strong>Islamic Society of Chester County</strong> (“ISCC”) was founded in 1978 as an informal network of families meeting in a local YWCA to perform Friday prayers. Seraj, a civil engineer who had emigrated from Egypt to the United States, opened a phone book after arriving in West Chester and called the numbers listed next to Muslim-sounding names. When the stranger would pick up, Brother Seraj asked where he could pray with other Muslims on Fridays. Unmoored in a new place, he created a network of Muslims using publicly posted telephone numbers and creativity. Since there were no local prayer spaces at that time, Brother Seraj rented a room at the YWCA each Friday. The earliest gatherings of the ISCC were characterized by a sense of family, shared food, and storytelling. After the Friday gatherings gained traction, the founding families added a Sunday gathering that welcomed.[1]</p>

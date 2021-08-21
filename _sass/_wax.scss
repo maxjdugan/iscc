@@ -305,16 +305,6 @@ content section
     background-attachment: fixed;
     background-size: cover;
   }
-  .parallax-caption {
-    margin: 0 auto;
-    width: 100vw;
-    background-color: $neutral;
-    padding: $less-margin 0;
-    a {
-      color: $accent-light;
-      font-weight: 700;
-      text-decoration: none;
-    }
 
     a:hover {
       text-decoration: underline;
