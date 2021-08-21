@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 title: 'Oral History'
-author: Megan Eaton Robb and Max Johnson Dugan
+author: Megan Eaton Robb & Max Johnson Dugan
 publish_date: 2021-05-19
 permalink: /exhibits/a/
 banner:
