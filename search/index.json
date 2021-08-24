@@ -12,6 +12,7 @@ layout: none
     "object_type": "Buildings",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img32/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img32",
     "lunr_id": 0
   },
@@ -25,6 +26,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img4/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img4",
     "lunr_id": 1
   },
@@ -38,6 +40,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img16/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img16",
     "lunr_id": 2
   },
@@ -51,6 +54,7 @@ layout: none
     "object_type": "Buildings",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img22/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img22",
     "lunr_id": 3
   },
@@ -64,6 +68,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img36/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img36",
     "lunr_id": 4
   },
@@ -77,6 +82,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img26/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img26",
     "lunr_id": 5
   },
@@ -90,6 +96,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img12/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img12",
     "lunr_id": 6
   },
@@ -103,6 +110,7 @@ layout: none
     "object_type": "Buildings",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img43/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img43",
     "lunr_id": 7
   },
@@ -116,6 +124,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img1/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img1",
     "lunr_id": 8
   },
@@ -129,6 +138,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img37/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img37",
     "lunr_id": 9
   },
@@ -142,6 +152,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img27/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img27",
     "lunr_id": 10
   },
@@ -155,6 +166,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img13/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img13",
     "lunr_id": 11
   },
@@ -168,6 +180,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img42/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img42",
     "lunr_id": 12
   },
@@ -181,6 +194,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img33/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img33",
     "lunr_id": 13
   },
@@ -194,6 +208,7 @@ layout: none
     "object_type": "Interfaith",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img5/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img5",
     "lunr_id": 14
   },
@@ -207,6 +222,7 @@ layout: none
     "object_type": "Buildings",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img17/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img17",
     "lunr_id": 15
   },
@@ -220,6 +236,7 @@ layout: none
     "object_type": "Buildings",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img23/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img23",
     "lunr_id": 16
   },
@@ -233,6 +250,7 @@ layout: none
     "object_type": "Buildings",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img38/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img38",
     "lunr_id": 17
   },
@@ -246,6 +264,7 @@ layout: none
     "object_type": "Buildings",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img28/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img28",
     "lunr_id": 18
   },
@@ -259,6 +278,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img18/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img18",
     "lunr_id": 19
   },
@@ -272,6 +292,7 @@ layout: none
     "object_type": "Buildings",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img19/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img19",
     "lunr_id": 20
   },
@@ -285,6 +306,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img39/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img39",
     "lunr_id": 21
   },
@@ -298,6 +320,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img29/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img29",
     "lunr_id": 22
   },
@@ -311,6 +334,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img8/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img8",
     "lunr_id": 23
   },
@@ -324,6 +348,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img9/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img9",
     "lunr_id": 24
   },
@@ -337,6 +362,7 @@ layout: none
     "object_type": "Buildings",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img2/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img2",
     "lunr_id": 25
   },
@@ -350,6 +376,7 @@ layout: none
     "object_type": "Buildings",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img34/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img34",
     "lunr_id": 26
   },
@@ -363,6 +390,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img24/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img24",
     "lunr_id": 27
   },
@@ -376,6 +404,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img41/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img41",
     "lunr_id": 28
   },
@@ -389,6 +418,7 @@ layout: none
     "object_type": "Buildings",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img10/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img10",
     "lunr_id": 29
   },
@@ -402,6 +432,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img30/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img30",
     "lunr_id": 30
   },
@@ -415,6 +446,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img6/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img6",
     "lunr_id": 31
   },
@@ -428,6 +460,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img14/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img14",
     "lunr_id": 32
   },
@@ -441,6 +474,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img20/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img20",
     "lunr_id": 33
   },
@@ -454,6 +488,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img31/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img31",
     "lunr_id": 34
   },
@@ -467,6 +502,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img7/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img7",
     "lunr_id": 35
   },
@@ -480,6 +516,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img15/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img15",
     "lunr_id": 36
   },
@@ -493,6 +530,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img21/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img21",
     "lunr_id": 37
   },
@@ -506,6 +544,7 @@ layout: none
     "object_type": "Interfaith",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img3/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img3",
     "lunr_id": 38
   },
@@ -519,6 +558,7 @@ layout: none
     "object_type": "Buildings",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img35/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img35",
     "lunr_id": 39
   },
@@ -532,6 +572,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img25/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img25",
     "lunr_id": 40
   },
@@ -545,6 +586,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img40/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img40",
     "lunr_id": 41
   },
@@ -558,6 +600,7 @@ layout: none
     "object_type": "Property",
     "collection": "iscc",
     "thumbnail": "/img/derivatives/iiif/images/img11/full/250,/0/default.jpg",
+    "content": " ",
     "permalink": "/iscc/img11",
     "lunr_id": 42
   }
